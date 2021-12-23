@@ -29,20 +29,19 @@ Widget Overview:
 
 ## Installation
 
-Clone the repository to your local machine and use npm install.
-Open the repo folder in preferred code editor.
-Add .env file and assign an API key/github token to REACT_APP_API_KEY variable
+## Installation
+
+* Clone the repository to your local machine and use npm install.
+* Open the repo folder in preferred code editor.
+* Add .env file and assign an API key/github token to REACT_APP_API_KEY variable
 Run:
 
 ```bash
-
 npm install
-
 npm run react-dev
 npm start
-
 ```
-Open http://localhost:3000 in browser
+* Open http://localhost:3000 in browser
 
 
 
