@@ -32,7 +32,6 @@ Widget Overview:
 Clone the repository to your local machine and use npm install.
 
 ```bash
-if you haven\'t, first go watch Zoolander
 open the repo folder in preferred code editor
 npm install
 add .env file and assign an API key/github token to REACT_APP_API_KEY variable
