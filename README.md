@@ -1,6 +1,5 @@
 // README
-
-# Front End Capstone Project - CATWALK
+Project - CATWALK
 
 ## Table of Contents
   1. Description
@@ -48,7 +47,7 @@ Project Catwalk is an e-commerce web application for buying various types of fas
 
 ## Contributors
 
-Matthew, Evan, John, and Wilson
+Evan Mastro, Matt Dowell, John Duval, and Wilson Wong 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
