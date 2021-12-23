@@ -22,9 +22,10 @@ Widget Overview:
   3. Questions and Answers - Allows users to search questions, ask questions, and post answers.
   4. Ratings and Reviews - This widget summarizes how customers feel about the selected product. The user can see how many people have given the product a rating of 1 to 5 stars, as well as what people have written about the product. Reviews can be sorted in ascending or descending order on various characteristics such as date written, review length, rating given, and review helpfulness. 
 
-![1](https://user-images.githubusercontent.com/59815226/147177653-1cbad649-65fb-4c76-b497-eac4ea1161dc.png)
-![2](https://user-images.githubusercontent.com/59815226/147177708-4e1dcb75-4e97-4c6d-81f7-37590aadc270.png)
-![3](https://user-images.githubusercontent.com/59815226/147177719-d5ae424d-8a10-418b-9559-624cc5a938ac.png)
+![1](https://user-images.githubusercontent.com/59815226/147178143-831987d6-2b39-4db9-b34b-8545e6cd5b7d.png)
+![2](https://user-images.githubusercontent.com/59815226/147178145-16fd8c8b-28d8-4cf9-9d4e-4ff3afd58321.png)
+![3](https://user-images.githubusercontent.com/59815226/147178151-a5eb9879-bcfc-4b85-947b-276dc47fb0db.png)
+![4](https://user-images.githubusercontent.com/59815226/147178159-2087001b-a959-44c0-a112-67b4ff0730f2.png)
 
 
 ## Installation
